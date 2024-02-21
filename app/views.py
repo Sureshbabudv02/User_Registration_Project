@@ -30,7 +30,7 @@ def registration(request):
             
             send_mail('Registration',
                       'Thank you for registering in MyEra',
-                      'amarendraroutray6@gmail.com',
+                      'sureshbabudv02@gmail.com',
                       [MUFDO.email],
                       fail_silently=True
                       )
